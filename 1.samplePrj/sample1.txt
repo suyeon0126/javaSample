@@ -1,9 +1,0 @@
-java/6000
-sql/800
-jsp/4000
-Servlet 1/6000
-Servlet 2/6000
-Servlet 3/6000
-php/7000
-안드로이드 프로그래밍/4000
-EJB/4000
